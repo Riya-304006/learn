@@ -1,4 +1,4 @@
 # learn
 Made by myself
 <br>
-Author - Riya 
+Author - Riya Singh
